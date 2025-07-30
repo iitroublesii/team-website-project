@@ -10,6 +10,7 @@ Welcome to our team website! This site was created as a collaborative project to
 - `index.html` — Home page with group introduction and links to individual pages
 - `samantha.html` — Samantha's introduction page
 - `jo.html` — Jo's introduction page
+- `ty.html` — Ty's introduction page
 
 
 ## Purpose
