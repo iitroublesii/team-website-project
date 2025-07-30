@@ -5,6 +5,7 @@ Welcome to our team website! This site was created as a collaborative project to
 ## Contributors
 - Samantha
 - Jo
+- Ty
 
 ## Pages
 - `index.html` — Home page with group introduction and links to individual pages
